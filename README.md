@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sirshak07
+- 👋 Hi, I’m Sirhak Niroula from Nepal
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c
 <!---
